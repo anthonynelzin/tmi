@@ -1,9 +1,9 @@
 name: "Firaf"
 license: "EUPL v1.2"
 licenselink: "https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12"
-description = "Le thème de Firaf Info"
-homepage = "https://zinzolin.org/rs/firaf-info"
-min_version = "0.41.0"
+description: "Le thème de Firaf Info"
+homepage: "https://zinzolin.org/rs/firaf-info"
+min_version: "0.41.0"
 
 author:
     name: "Anthony Nelzin-Santos"

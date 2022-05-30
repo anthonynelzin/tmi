@@ -1,6 +1,6 @@
-baseURL: "https://zinzolin.org/rs/firaf-info-2022"
+baseURL: "https://zinzolin.org/projets/firaf-info"
 defaultContentLanguage: "fr"
 languageCode: "fr"
 theme: "firaf"
 timeZone: "Europe/Paris"
-title: "Firaf Info 2022"
+title: "Firaf Info"

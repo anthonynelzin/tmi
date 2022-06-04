@@ -4,6 +4,6 @@ languageCode: "fr"
 params:
     description: "Le site-école du master « Techniques des métiers de l’information »"
     featured: true
-theme: "origin"
+theme: "onigiri"
 timeZone: "Europe/Paris"
 title: "TMI"

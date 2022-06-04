@@ -1,6 +1,9 @@
-baseURL: "https://zinzolin.org/projets/firaf-info"
+baseURL: "https://zinzolin.org/projets/tmi"
 defaultContentLanguage: "fr"
 languageCode: "fr"
-theme: "firaf"
+params:
+    description: "Le site-école du master « Techniques des métiers de l’information »"
+    featured: true
+theme: "origin"
 timeZone: "Europe/Paris"
-title: "Firaf Info"
+title: "TMI"
